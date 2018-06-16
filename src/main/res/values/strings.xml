@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gomoku AI</string>
+    <string name="action_settings">Settings</string>
+    <string name="processing">正在思考</string>
+    <string name="mb_ok">好</string>
+    <string name="black_wins">"黑方胜利！ｸﾞｯ!(๑•̀ㅂ•́)و✧"</string>
+    <string name="white_wins">"白方胜利！ｸﾞｯ!(๑•̀ㅂ•́)و✧"</string>
+    <string name="draw">平局！ｸﾞｯ!(๑•̀ㅂ•́)و✧</string>
+</resources>
